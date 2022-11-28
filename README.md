@@ -4,7 +4,7 @@
 [相关博客地址](https://blog.csdn.net/Jacksqh/article/details/128058988)
 
 ## 环境
-环境：VS2017+VLC+win64
+环境：VS2017+VLC+win32
 
 环境配置过程简易步骤：（`详细的配置步骤请看上面博客`）
 
